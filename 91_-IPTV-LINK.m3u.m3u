@@ -1,0 +1,59 @@
+﻿#EXTM3U
+#EXTINF:-1,Fine Living
+http://91.149.172.100:80/channel?id=13&u=demo&p=demo
+#EXTINF:-1,MTV Dance
+http://91.149.172.100:80/channel?id=20&u=demo&p=demo
+#EXTINF:-1,VH1 Classic
+http://91.149.172.100:80/channel?id=21&u=demo&p=demo
+#EXTINF:-1,JimJam
+http://91.149.172.100:80/channel?id=25&u=demo&p=demo
+#EXTINF:-1,TV1000
+http://91.149.172.100:80/channel?id=34&u=demo&p=demo
+#EXTINF:-1,TV1000 Action
+http://91.149.172.100:80/channel?id=35&u=demo&p=demo
+#EXTINF:-1,Viasat History
+http://91.149.172.100:80/channel?id=38&u=demo&p=demo
+#EXTINF:-1,World Fashion Channel
+http://91.149.172.100:80/channel?id=54&u=demo&p=demo
+#EXTINF:-1,Amedia HD
+http://91.149.172.100:80/channel?id=68&u=demo&p=demo
+#EXTINF:-1,VH1 Europe
+http://91.149.172.100:80/channel?id=73&u=demo&p=demo
+#EXTINF:-1,Fox Life HD
+http://91.149.172.100:80/channel?id=75&u=demo&p=demo
+#EXTINF:-1,Nick Jr.
+http://91.149.172.100:80/channel?id=76&u=demo&p=demo
+#EXTINF:-1,Мужское кино
+http://91.149.172.100:80/channel?id=82&u=demo&p=demo
+#EXTINF:-1,Sony HD
+http://91.149.172.100:80/channel?id=89&u=demo&p=demo
+#EXTINF:-1,Paramount Comedy
+http://91.149.172.100:80/channel?id=90&u=demo&p=demo
+#EXTINF:-1,Nat Geo HD
+http://91.149.172.100:80/channel?id=91&u=demo&p=demo
+#EXTINF:-1,Paramount Channel
+http://91.149.172.100:80/channel?id=93&u=demo&p=demo
+#EXTINF:-1,History HD
+http://91.149.172.100:80/channel?id=94&u=demo&p=demo
+#EXTINF:-1,Travel HD
+http://91.149.172.100:80/channel?id=95&u=demo&p=demo
+#EXTINF:-1,Кинохит
+http://91.149.172.100:80/channel?id=112&u=demo&p=demo
+#EXTINF:-1,MTV Rocks
+http://91.149.172.100:80/channel?id=134&u=demo&p=demo
+#EXTINF:-1,History
+http://91.149.172.100:80/channel?id=136&u=demo&p=demo
+#EXTINF:-1,MTV Hits
+http://91.149.172.100:80/channel?id=140&u=demo&p=demo
+#EXTINF:-1,Travel+Adventure
+http://91.149.172.100:80/channel?id=141&u=demo&p=demo
+#EXTINF:-1,Sony Turbo
+http://91.149.172.100:80/channel?id=143&u=demo&p=demo
+#EXTINF:-1,Travel+Adventure HD
+http://91.149.172.100:80/channel?id=144&u=demo&p=demo
+#EXTINF:-1,Setanta Sports HD
+http://91.149.172.100:80/channel?id=145&u=demo&p=demo
+#EXTINF:-1,Setanta Sports + HD
+http://91.149.172.100:80/channel?id=146&u=demo&p=demo
+
+
